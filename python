@@ -1,0 +1,24 @@
+Exemplo de estrutura de repetição:
+
+>>> for elemento in lista:
+...     print(elemento)
+...
+1
+2
+3
+4
+5
+>>>
+
+Exemplo de estrutura de decisão:
+
+
+idade = 20
+
+if idade < 18:
+    print("Você é menor de idade.")
+elif idade >= 18 and idade < 60:
+    print("Você é um adulto.")
+else:
+    print("Você é um idoso.")
+
